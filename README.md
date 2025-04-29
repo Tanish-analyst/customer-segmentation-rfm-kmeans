@@ -6,16 +6,13 @@ This project uses real-world e-commerce data (UCI Online Retail Dataset) to segm
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
+- [Overview](##overview)
 - [Business Context](#business-context)
 - [Dataset](#dataset)
 - [Project Workflow](#project-workflow)
 - [Key Results](#key-results)
 - [Business Insights](#business-insights)
 - [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Author](#author)
-
 ---
 
 ## 🔍 Overview
@@ -84,11 +81,4 @@ Highlights:
 - seaborn, matplotlib
 - scikit-learn
 
----
-
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/customer-segmentation-retail-rfm-kmeans.git
 
