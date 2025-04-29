@@ -6,13 +6,13 @@ This project uses real-world e-commerce data (UCI Online Retail Dataset) to segm
 
 ## 📌 Table of Contents
 
-- [Overview](##overview)
-- [Business Context](#business-context)
-- [Dataset](#dataset)
-- [Project Workflow](#project-workflow)
-- [Key Results](#key-results)
-- [Business Insights](#business-insights)
-- [Technologies Used](#technologies-used)
+- [🔍 Overview](#-overview)
+- [🏢 Business Context](#-business-context)
+- [📊 Dataset](#-dataset)
+- [🔄 Project Workflow](#-project-workflow)
+- [🧠 Key Results](#-key-results)
+- [💼 Business Insights](#-business-insights)
+- [🛠️ Technologies Used](#️-technologies-used)
 ---
 
 ## 🔍 Overview
