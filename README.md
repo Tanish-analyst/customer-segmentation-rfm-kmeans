@@ -64,7 +64,8 @@ For e-commerce and retail businesses, not all customers hold equal value. Identi
 
 ## 💼 Business Insights
 
-📌 Full business interpretations are available in the [https://www.linkedin.com/pulse/all-customers-created-equal-how-i-used-rfm-kmeans-segment-sharma-lzhqf/?trackingId=5uyuuQKnTGSfBnfa%2FEExQQ%3D%3D](#) (link to Medium or LinkedIn)
+📌[Full business interpretations available here](https://www.linkedin.com/pulse/all-customers-created-equal-how-i-used-rfm-kmeans-segment-sharma-lzhqf/?trackingId=5uyuuQKnTGSfBnfa%2FEExQQ%3D%3D)
+
 
 Highlights:
 
